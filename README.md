@@ -2,6 +2,7 @@
 
 **Disciplina**: Estrutura de Dados 1  
 **Aluno**: Gabriel Henrique Coldebella de Souza  
+**Prazo**: 21/05/2025
 
 # 🧬 Labirinto com Algoritmos Genéticos
 
