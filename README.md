@@ -1,8 +1,9 @@
 # Universidade Federal do Tocantins (UFT)
 
 **Disciplina**: Estrutura de Dados 1  
-**Aluno**: Gabriel Henrique Coldebella de Souza  
+**Professor**: Rafael Lima
 **Prazo**: 21/05/2025
+**Aluno**: Gabriel Henrique Coldebella de Souza  
 
 # 🧬 Labirinto com Algoritmos Genéticos
 
