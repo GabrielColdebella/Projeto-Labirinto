@@ -4,6 +4,8 @@
 **Professor**: Rafael Lima  
 **Prazo**: 21/05/2025  
 **Aluno**: Gabriel Henrique Coldebella de Souza    
+
+---
   
 # 🧬 Labirinto com Algoritmos Genéticos
 
