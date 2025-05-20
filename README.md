@@ -4,20 +4,20 @@
 **Professor**: Rafael Lima  
 **Prazo**: 21/05/2025  
 **Aluno**: Gabriel Henrique Coldebella de Souza    
-
+  
 # 🧬 Labirinto com Algoritmos Genéticos
 
 Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados 1**.
 
 ---
-
+  
 ## 🧠 Objetivo
 
 O sistema simula indivíduos de uma mesma espécie que percorrem um labirinto com base em movimentos gerados por algoritmos genéticos. 
 O desempenho (fitness) de cada indivíduo é avaliado de acordo com sua eficiência em encontrar a saída do labirinto.
 
 ---
-
+  
 ## 🧱 Estrutura do Projeto
 
 projetoLabirinto/
@@ -28,11 +28,11 @@ projetoLabirinto/
 5. individuo.txt -> Arquivo com os dados dos indivíduos
 
 ---
-
+  
 ## 💻 Compilação
 
-Use o comando :
+Use o comando :  
 gcc main.c labirinto.c individuo.c -o programa.exe -lm
 
-Em seguida, execute:
+Em seguida, execute:  
 ./programa.exe
