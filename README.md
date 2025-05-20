@@ -1,4 +1,4 @@
-# Universidade Federal do Tocantins (UFT)
+# Universidade Federal do Tocantins
 
 **Disciplina**: Estrutura de Dados 1  
 **Professor**: Rafael Lima  
